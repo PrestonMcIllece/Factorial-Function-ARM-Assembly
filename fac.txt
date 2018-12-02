@@ -1,0 +1,3 @@
+#Group - Ali, Justin, Daniel, Preston, Brandon
+
+Our solution is more efficient because our assembly code consists of fewer lines of code than the auto generated assembly code. Additionally, our assembly code uses only two registers.  

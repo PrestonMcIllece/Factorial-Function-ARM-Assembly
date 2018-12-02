@@ -14,4 +14,5 @@ loop:
 	mul r0, r1, r0
 	sub r1, r1, #1
 	cmp r1, #1
-	blt loop
+	bne loop
+	bx lr
